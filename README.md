@@ -73,6 +73,8 @@ docker-compose up --build
 
 ## Deployment (Google Cloud Run)
 
+**Live Demo:** [https://triageai-yourproject.run.app](https://triageai-yourproject.run.app)
+
 ```bash
 # Build and push images
 ./deploy/deploy.sh
